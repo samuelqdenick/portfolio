@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" fill="none">
+  <defs>
+    <linearGradient id="paper" x2="0" y2="1"><stop stop-color="#eee9dc"/><stop offset="1" stop-color="#d9d1c0"/></linearGradient>
+    <linearGradient id="backdrop" x2="0" y2="1"><stop stop-color="#748075"/><stop offset="1" stop-color="#343a34"/></linearGradient>
+    <linearGradient id="metal" x2="1" y2="1"><stop stop-color="#e6e0d2"/><stop offset=".45" stop-color="#969587"/><stop offset="1" stop-color="#54594f"/></linearGradient>
+    <pattern id="grain" width="12" height="12" patternUnits="userSpaceOnUse"><circle cx="2" cy="3" r=".8" fill="#373a33" opacity=".18"/><circle cx="9" cy="8" r=".6" fill="#373a33" opacity=".12"/></pattern>
+  </defs>
+  <path fill="url(#paper)" d="M0 0h1200v760H0z"/><path fill="#272b27" d="M54 56h1092v648H54z"/><path fill="url(#backdrop)" d="M76 78h1048v552H76z"/>
+  <!-- Broadcast studio backdrop -->
+  <path fill="#e6dfcf" d="M130 126h310v245H130z"/><path fill="#8e988c" d="M147 143h276v211H147z"/><path fill="#e8d796" d="M147 143h276v95H147z"/><path fill="#667267" d="m147 298 80-61 68 41 61-62 67 41v97H147z"/><path stroke="#e8e2d4" stroke-width="8" d="M285 143v211m-138-112h276"/>
+  <path fill="#242824" d="M785 126h256v112H785z"/><path fill="#ece6d8" d="M802 143h222v78H802z"/><circle cx="834" cy="182" r="8" fill="#efc84a"/><text x="914" y="190" fill="#343832" font-family="Arial,sans-serif" font-size="19" font-weight="700" letter-spacing="4" text-anchor="middle">ON AIR</text><path fill="#efc84a" d="M853 203h130v5H853z"/>
+  <path fill="#aaa08a" d="M76 482h1048v148H76z"/><path stroke="#d7cfbd" stroke-opacity=".45" stroke-width="3" d="M96 584h1006m-756-102-80 148m430-148-36 148m386-148 54 148"/>
+  <!-- Sound waves behind the microphone -->
+  <path stroke="#efc84a" stroke-width="8" stroke-linecap="round" d="M360 257c-36 36-36 96 0 132m-45-176c-60 60-60 160 0 220m493-176c36 36 36 96 0 132m45-176c60 60 60 160 0 220" opacity=".8"/>
+  <!-- Large studio microphone -->
+  <ellipse cx="603" cy="584" rx="175" ry="24" fill="#171a18" opacity=".32"/>
+  <path fill="#222622" d="M569 359h68v173h-68z"/><path fill="url(#metal)" d="M523 196c0-77 36-123 80-123s80 46 80 123v161c0 69-36 115-80 115s-80-46-80-115z"/><path fill="#2c312c" d="M537 193c0-61 28-98 66-98s66 37 66 98v155c0 52-28 88-66 88s-66-36-66-88z"/><path fill="url(#metal)" d="M548 193c0-47 22-76 55-76s55 29 55 76v146c0 38-22 64-55 64s-55-26-55-64z"/>
+  <path stroke="#3d433d" stroke-width="7" d="M543 195h132m-132 15h132m-132 15h132m-132 15h132m-132 15h132m-132 15h132m-132 15h132m-132 15h132m-132 15h132m-132 15h132m-132 15h132m-132 15h132"/>
+  <path fill="#efc84a" d="M552 354h112v17H552z"/><path fill="#e8e1d1" d="M552 371h112v12H552z"/><path fill="#303630" d="M579 489h48v70h-48z"/><path stroke="#262a26" stroke-width="13" stroke-linecap="round" d="M481 397v49c0 68 43 111 122 111s122-43 122-111v-49"/><path stroke="#262a26" stroke-width="13" stroke-linecap="round" d="M603 557v43m-75 0h150"/><path fill="#efc84a" d="M528 594h150v15H528z"/>
+  <!-- Small mixer cue lights -->
+  <path fill="#2b302b" d="M351 505h145v46H351z"/><path fill="#e8e1d1" d="M363 516h121v23H363z"/><circle cx="380" cy="527" r="5" fill="#efc84a"/><circle cx="400" cy="527" r="5" fill="#788578"/><path fill="#777d70" d="M419 524h49v6h-49z"/>
+  <path fill="url(#grain)" d="M54 56h1092v648H54z" opacity=".2"/><path stroke="#efc84a" stroke-width="3" d="M76 78h1048v552H76z"/><path fill="#efc84a" d="M54 56h1092v8H54z"/>
+</svg>
+

@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" fill="none">
+  <defs>
+    <linearGradient id="paper" x2="0" y2="1"><stop stop-color="#eee9dc"/><stop offset="1" stop-color="#d9d1c0"/></linearGradient>
+    <linearGradient id="backdrop" x2="0" y2="1"><stop stop-color="#748075"/><stop offset="1" stop-color="#343a34"/></linearGradient>
+    <linearGradient id="steel" x2="1" y2="1"><stop stop-color="#e7e2d5"/><stop offset=".46" stop-color="#a6a293"/><stop offset="1" stop-color="#565c53"/></linearGradient>
+    <pattern id="grain" width="12" height="12" patternUnits="userSpaceOnUse"><circle cx="2" cy="3" r=".8" fill="#373a33" opacity=".18"/><circle cx="9" cy="8" r=".6" fill="#373a33" opacity=".12"/></pattern>
+  </defs>
+  <path fill="url(#paper)" d="M0 0h1200v760H0z"/><path fill="#272b27" d="M54 56h1092v648H54z"/><path fill="url(#backdrop)" d="M76 78h1048v552H76z"/>
+  <!-- Theater flats and a warm stage light -->
+  <path fill="#ddd6c5" d="M140 133h256v339H140z"/><path fill="#a3aa9d" d="M157 150h222v305H157z"/><path fill="#e6d49c" d="M157 150h222v115H157z"/><path fill="#697368" d="m157 358 74-57 74 43 74-78v189H157z"/><path stroke="#e7e1d2" stroke-width="8" d="M268 150v305m-111-159h222"/>
+  <path fill="#e9d68f" opacity=".26" d="M782 78h138l204 392H555z"/><path fill="#252925" d="M824 111h58v18h-58z"/><path fill="#efc84a" d="M831 127h44v14h-44z"/><circle cx="853" cy="146" r="13" fill="#f5dc8b"/>
+  <path fill="#aaa08a" d="M76 488h1048v142H76z"/><path stroke="#d7cfbd" stroke-opacity=".43" stroke-width="3" d="M97 587h1005m-750-99-83 142m433-142-37 142m385-142 58 142"/>
+  <!-- Workbench with timber and nails -->
+  <path fill="#373b35" d="M153 461h341v48H153z"/><path fill="#c4b89e" d="M166 446h323v20H166z"/><path fill="#68665b" d="M180 508h24v101h-24zm267 0h24v101h-24z"/><path stroke="#eee6d6" stroke-width="4" d="M239 450v-13m41 13v-13m41 13v-13"/><circle cx="239" cy="432" r="4" fill="#efc84a"/><circle cx="280" cy="432" r="4" fill="#efc84a"/><circle cx="321" cy="432" r="4" fill="#efc84a"/>
+  <!-- Large claw hammer as the main subject -->
+  <ellipse cx="645" cy="594" rx="235" ry="25" fill="#171a18" opacity=".3"/>
+  <g transform="rotate(-37 631 376)">
+    <path fill="#9b7049" d="M590 304h79v319h-79z"/>
+    <path fill="#a8a596" d="M450 210h328q43 0 43 43v50q0 43-43 43H450l-43-7q-18-3-18-21v-3l55-37-55-37v-3q0-18 18-21z"/>
+    <path fill="#efc84a" d="M464 223h280v11H464z"/>
+  </g>
+  <!-- Small stage nails and tape measure detail -->
+  <path fill="#242824" d="M896 428h125v89H896z"/><path fill="#efc84a" d="M908 440h101v65H908z"/><circle cx="959" cy="472" r="20" fill="#3c423b"/><circle cx="959" cy="472" r="7" fill="#e8e1d1"/><path stroke="#3c423b" stroke-width="4" d="M929 451v42m18-42v19m18-19v19m18-19v19m18-19v42"/>
+  <path fill="url(#grain)" d="M54 56h1092v648H54z" opacity=".2"/><path stroke="#efc84a" stroke-width="3" d="M76 78h1048v552H76z"/><path fill="#efc84a" d="M54 56h1092v8H54z"/>
+</svg>
+

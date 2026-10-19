@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" fill="none">
+  <defs>
+    <linearGradient id="paper" x2="0" y2="1"><stop stop-color="#eee9dc"/><stop offset="1" stop-color="#d9d1c0"/></linearGradient>
+    <linearGradient id="backdrop" x2="0" y2="1"><stop stop-color="#748075"/><stop offset="1" stop-color="#343a34"/></linearGradient>
+    <linearGradient id="lens" x2="1" y2="1"><stop stop-color="#e5d39b"/><stop offset=".42" stop-color="#778174"/><stop offset="1" stop-color="#252a26"/></linearGradient>
+    <pattern id="grain" width="12" height="12" patternUnits="userSpaceOnUse"><circle cx="2" cy="3" r=".8" fill="#373a33" opacity=".18"/><circle cx="9" cy="8" r=".6" fill="#373a33" opacity=".12"/></pattern>
+  </defs>
+  <path fill="url(#paper)" d="M0 0h1200v760H0z"/><path fill="#272b27" d="M54 56h1092v648H54z"/><path fill="url(#backdrop)" d="M76 78h1048v552H76z"/>
+  <!-- Soft set lighting and a distant frame suggest a working film set -->
+  <path fill="#e9d68f" opacity=".25" d="M754 78h192l178 340H548z"/><path fill="#d9d1c0" d="M132 132h230v286H132z"/><path fill="#929b8f" d="M148 148h198v254H148z"/><path stroke="#e8e2d4" stroke-width="8" d="M247 148v254m-99-128h198"/><path fill="#efc84a" d="M148 309h198v93H148z" opacity=".56"/>
+  <path fill="#aaa08a" d="M76 470h1048v160H76z"/><path stroke="#d7cfbd" stroke-opacity=".48" stroke-width="3" d="M96 580h1006m-768-110-93 160m431-160-41 160m400-160 62 160"/><path fill="#efc84a" d="M534 510h24v24h-24zm272 0h24v24h-24z"/>
+  <!-- Large cinema camera, front and center -->
+  <ellipse cx="602" cy="603" rx="280" ry="28" fill="#171a18" opacity=".3"/>
+  <path stroke="#222622" stroke-linecap="round" stroke-width="24" d="m602 464-117 193m117-193 119 193m-119-193v198"/>
+  <path fill="#202420" d="M334 274h448v224H334z"/><path fill="#363c36" d="M356 296h407v178H356z"/>
+  <path fill="#efc84a" d="M334 274h448v17H334z"/><path fill="#171a18" d="M390 232h188v42H390z"/><path fill="#252a26" d="M421 182h120v51H421z"/><path fill="#efc84a" d="M439 168h83v14h-83z"/>
+  <!-- Lens assembly -->
+  <path fill="#171a18" d="M782 321h84v128h-84z"/><circle cx="876" cy="385" r="102" fill="#202420"/><circle cx="876" cy="385" r="81" fill="#5b6259"/><circle cx="876" cy="385" r="65" fill="url(#lens)"/><circle cx="876" cy="385" r="43" fill="#252a26"/><circle cx="862" cy="369" r="18" fill="#f3db8b" opacity=".78"/><circle cx="876" cy="385" r="78" stroke="#d6c89b" stroke-width="7"/>
+  <path fill="#e8e1d1" d="M381 315h91v12h-91zm0 23h59v8h-59"/><circle cx="691" cy="323" r="12" fill="#efc84a"/><circle cx="731" cy="323" r="8" fill="#a5ad9f"/><path fill="#e6dfcf" d="M411 370h58v53h-58z"/><path fill="#272b27" d="M420 379h40v34h-40z"/><path fill="#aab2a4" d="M426 385h28v21h-28z"/><path fill="#efc84a" d="M334 483h448v15H334z"/>
+  <!-- Film magazine and functional detail -->
+  <path fill="#303630" d="M578 209h166v65H578z"/><path fill="#202420" d="M603 188h115v22H603z"/><path stroke="#959889" stroke-width="6" d="M603 220h114m-114 16h78"/><path fill="#efc84a" d="M626 215h18v18h-18z"/>
+  <path fill="url(#grain)" d="M54 56h1092v648H54z" opacity=".2"/><path stroke="#efc84a" stroke-width="3" d="M76 78h1048v552H76z"/><path fill="#efc84a" d="M54 56h1092v8H54z"/>
+</svg>
+
